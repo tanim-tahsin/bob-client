@@ -1,0 +1,10 @@
+.btnset{
+    text-decoration: none;
+    padding: 6px 9px;
+    background-color:brown;
+    color:white;
+    border-radius: 5px;
+}
+.btnset:hover{
+    color:white
+}
